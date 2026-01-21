@@ -3,7 +3,7 @@ MBA IT Final Year Project – Business Analysis &amp; Data Analytics
 # MBA Final Year Project – Business Analysis
 
 ## Project Title
-(Your exact project title from PDF)
+**REVENUE-MODEL-AND-BUSINESS-APPLICATIONS-OF-PUBG-APP in hyderabad
 
 ## Objective
 To analyze business data and provide actionable insights to support decision-making.
